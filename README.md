@@ -12,6 +12,6 @@ Cras lacinia erat quis lorem pharetra feugiat. In hac habitasse platea dictumst.
 
 
 Aliquam ac sapien in sem venenatis maximus. 
-# [Link 1](google.com)
-# [Link 2](google.com) 
+# [Link 1](https://google.com)
+# [Link 2](https://yahoo.com) 
 > 12.07.2025 [updated]
