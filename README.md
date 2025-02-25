@@ -14,4 +14,9 @@ Cras lacinia erat quis lorem pharetra feugiat. In hac habitasse platea dictumst.
 Aliquam ac sapien in sem venenatis maximus. 
 # [Link 1](https://google.com)
 # [Link 2](https://yahoo.com) 
-> 12.07.2025 [updated]
+
+```
+12.07.2025 [updated]
+```
+
+> _12.07.2025_ [updated]
