@@ -1,19 +1,39 @@
+<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Мой сайт</title>
-    <style>
-        body {
-            margin: 0;
-        }
-        h1 {
-            display: none;
-        }
-    </style>
+    <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
-    <h1>Добро пожаловать на мой сайт!</h1>
-    <p>Это мой сайт, размещенный на GitHub Pages.</p>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Главная</a></li>
+                <li><a href="about.html">О нас</a></li>
+                <li><a href="contact.html">Контакты</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section class="hero">
+            <h1>Добро пожаловать на мой сайт!</h1>
+            <p>Здесь размещены полезные ресурсы и информация.</p>
+        </section>
+        
+        <section class="about-preview">
+            <h2>О нас</h2>
+            <p>Мы команда разработчиков, создающих отличные веб-сайты.</p>
+            <a href="about.html">Подробнее</a>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2025 Мой сайт. Все права защищены.</p>
+    </footer>
+    
+    <script src="assets/js/script.js"></script>
 </body>
 </html>
