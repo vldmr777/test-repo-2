@@ -3,7 +3,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempus velit eget t
 
 
 # [Link 1](https://google.com)
-# [Link 2](https://yahoo.com) 
+# [Link 2](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
 
 ```
 12.07.2025 [updated]
