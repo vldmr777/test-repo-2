@@ -6,7 +6,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempus velit eget t
 # [Link 2](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
 
 ```
-12.07.2025 [updated]
+12.07.2052 [updated]
 ```
 
-> _12.07.2025_ [updated]
+> _12.07.2052_ [updated]
